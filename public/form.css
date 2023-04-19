@@ -1,0 +1,9 @@
+input[name='success'] {
+  text-align: right;
+}
+button[type='submit'] {
+  display: block;
+}
+.output {
+  font-family: monospace;
+}
